@@ -1,0 +1,5 @@
+E:\MITA\29.03.15\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+E:\MITA\29.03.15\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+E:\MITA\29.03.15\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+E:\MITA\29.03.15\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+E:\MITA\29.03.15\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

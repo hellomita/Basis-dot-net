@@ -1,0 +1,9 @@
+E:\MITA\salaryCalculation\salaryCalculation\bin\Debug\salaryCalculation.exe.config
+E:\MITA\salaryCalculation\salaryCalculation\obj\Debug\salaryCalculation.csprojResolveAssemblyReference.cache
+E:\MITA\salaryCalculation\salaryCalculation\obj\Debug\salaryCalculation.Form1.resources
+E:\MITA\salaryCalculation\salaryCalculation\obj\Debug\salaryCalculation.Properties.Resources.resources
+E:\MITA\salaryCalculation\salaryCalculation\obj\Debug\salaryCalculation.csproj.GenerateResource.Cache
+E:\MITA\salaryCalculation\salaryCalculation\bin\Debug\salaryCalculation.exe
+E:\MITA\salaryCalculation\salaryCalculation\bin\Debug\salaryCalculation.pdb
+E:\MITA\salaryCalculation\salaryCalculation\obj\Debug\salaryCalculation.exe
+E:\MITA\salaryCalculation\salaryCalculation\obj\Debug\salaryCalculation.pdb

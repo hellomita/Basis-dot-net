@@ -1,0 +1,6 @@
+E:\MITA\03.04.15\QueueOverViewApp\QueueOverViewApp\bin\Debug\QueueOverViewApp.exe.config
+E:\MITA\03.04.15\QueueOverViewApp\QueueOverViewApp\bin\Debug\QueueOverViewApp.exe
+E:\MITA\03.04.15\QueueOverViewApp\QueueOverViewApp\bin\Debug\QueueOverViewApp.pdb
+E:\MITA\03.04.15\QueueOverViewApp\QueueOverViewApp\obj\Debug\QueueOverViewApp.csprojResolveAssemblyReference.cache
+E:\MITA\03.04.15\QueueOverViewApp\QueueOverViewApp\obj\Debug\QueueOverViewApp.exe
+E:\MITA\03.04.15\QueueOverViewApp\QueueOverViewApp\obj\Debug\QueueOverViewApp.pdb

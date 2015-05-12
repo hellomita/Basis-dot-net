@@ -1,0 +1,6 @@
+E:\MITA\31.03.15\new work\new work\bin\Debug\new work.exe.config
+E:\MITA\31.03.15\new work\new work\obj\Debug\new work.csprojResolveAssemblyReference.cache
+E:\MITA\31.03.15\new work\new work\bin\Debug\new work.exe
+E:\MITA\31.03.15\new work\new work\bin\Debug\new work.pdb
+E:\MITA\31.03.15\new work\new work\obj\Debug\new work.exe
+E:\MITA\31.03.15\new work\new work\obj\Debug\new work.pdb

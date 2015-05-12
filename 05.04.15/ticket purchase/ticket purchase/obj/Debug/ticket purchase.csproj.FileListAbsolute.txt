@@ -1,0 +1,9 @@
+E:\MITA\05.04.15\ticket purchase\ticket purchase\bin\Debug\ticket purchase.exe.config
+E:\MITA\05.04.15\ticket purchase\ticket purchase\bin\Debug\ticket purchase.exe
+E:\MITA\05.04.15\ticket purchase\ticket purchase\bin\Debug\ticket purchase.pdb
+E:\MITA\05.04.15\ticket purchase\ticket purchase\obj\Debug\ticket purchase.csprojResolveAssemblyReference.cache
+E:\MITA\05.04.15\ticket purchase\ticket purchase\obj\Debug\ticket_purchase.Form1.resources
+E:\MITA\05.04.15\ticket purchase\ticket purchase\obj\Debug\ticket_purchase.Properties.Resources.resources
+E:\MITA\05.04.15\ticket purchase\ticket purchase\obj\Debug\ticket purchase.csproj.GenerateResource.Cache
+E:\MITA\05.04.15\ticket purchase\ticket purchase\obj\Debug\ticket purchase.exe
+E:\MITA\05.04.15\ticket purchase\ticket purchase\obj\Debug\ticket purchase.pdb

@@ -1,0 +1,9 @@
+E:\MITA\05.04.15\bookInfo\bookInfo\bin\Debug\bookInfo.exe.config
+E:\MITA\05.04.15\bookInfo\bookInfo\bin\Debug\bookInfo.exe
+E:\MITA\05.04.15\bookInfo\bookInfo\bin\Debug\bookInfo.pdb
+E:\MITA\05.04.15\bookInfo\bookInfo\obj\Debug\bookInfo.csprojResolveAssemblyReference.cache
+E:\MITA\05.04.15\bookInfo\bookInfo\obj\Debug\bookInfo.Form1.resources
+E:\MITA\05.04.15\bookInfo\bookInfo\obj\Debug\bookInfo.Properties.Resources.resources
+E:\MITA\05.04.15\bookInfo\bookInfo\obj\Debug\bookInfo.csproj.GenerateResource.Cache
+E:\MITA\05.04.15\bookInfo\bookInfo\obj\Debug\bookInfo.exe
+E:\MITA\05.04.15\bookInfo\bookInfo\obj\Debug\bookInfo.pdb

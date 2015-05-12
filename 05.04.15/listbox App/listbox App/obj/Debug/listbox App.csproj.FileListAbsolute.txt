@@ -1,0 +1,9 @@
+E:\MITA\05.04.15\listbox App\listbox App\bin\Debug\listbox App.exe.config
+E:\MITA\05.04.15\listbox App\listbox App\bin\Debug\listbox App.exe
+E:\MITA\05.04.15\listbox App\listbox App\bin\Debug\listbox App.pdb
+E:\MITA\05.04.15\listbox App\listbox App\obj\Debug\listbox App.csprojResolveAssemblyReference.cache
+E:\MITA\05.04.15\listbox App\listbox App\obj\Debug\listbox_App.Form1.resources
+E:\MITA\05.04.15\listbox App\listbox App\obj\Debug\listbox_App.Properties.Resources.resources
+E:\MITA\05.04.15\listbox App\listbox App\obj\Debug\listbox App.csproj.GenerateResource.Cache
+E:\MITA\05.04.15\listbox App\listbox App\obj\Debug\listbox App.exe
+E:\MITA\05.04.15\listbox App\listbox App\obj\Debug\listbox App.pdb

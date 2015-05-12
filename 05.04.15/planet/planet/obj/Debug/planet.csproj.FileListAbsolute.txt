@@ -1,0 +1,5 @@
+E:\MITA\05.04.15\planet\planet\bin\Debug\planet.exe.config
+E:\MITA\05.04.15\planet\planet\obj\Debug\planet.csprojResolveAssemblyReference.cache
+E:\MITA\05.04.15\planet\planet\obj\Debug\planet.Form1.resources
+E:\MITA\05.04.15\planet\planet\obj\Debug\planet.Properties.Resources.resources
+E:\MITA\05.04.15\planet\planet\obj\Debug\planet.csproj.GenerateResource.Cache

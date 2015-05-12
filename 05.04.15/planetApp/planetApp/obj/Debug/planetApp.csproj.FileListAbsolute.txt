@@ -1,0 +1,9 @@
+E:\MITA\05.04.15\planetApp\planetApp\bin\Debug\planetApp.exe.config
+E:\MITA\05.04.15\planetApp\planetApp\bin\Debug\planetApp.exe
+E:\MITA\05.04.15\planetApp\planetApp\bin\Debug\planetApp.pdb
+E:\MITA\05.04.15\planetApp\planetApp\obj\Debug\planetApp.csprojResolveAssemblyReference.cache
+E:\MITA\05.04.15\planetApp\planetApp\obj\Debug\planetApp.Form1.resources
+E:\MITA\05.04.15\planetApp\planetApp\obj\Debug\planetApp.Properties.Resources.resources
+E:\MITA\05.04.15\planetApp\planetApp\obj\Debug\planetApp.csproj.GenerateResource.Cache
+E:\MITA\05.04.15\planetApp\planetApp\obj\Debug\planetApp.exe
+E:\MITA\05.04.15\planetApp\planetApp\obj\Debug\planetApp.pdb

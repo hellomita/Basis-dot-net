@@ -1,0 +1,18 @@
+E:\jewel rana\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\jewel rana\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\jewel rana\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\jewel rana\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\jewel rana\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.save.resources
+E:\jewel rana\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\jewel rana\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache
+E:\jewel rana\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\jewel rana\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\MITA\07.04.15\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\MITA\07.04.15\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\MITA\07.04.15\CalculatorApp\obj\Debug\CalculatorApp.pdb
+E:\MITA\07.04.15\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\MITA\07.04.15\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\MITA\07.04.15\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+E:\MITA\07.04.15\CalculatorApp\obj\Debug\CalculatorApp.save.resources
+E:\MITA\07.04.15\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\MITA\07.04.15\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.Cache

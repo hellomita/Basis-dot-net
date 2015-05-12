@@ -1,0 +1,5 @@
+E:\MITA\03.04.15\DictionaryIntroApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\MITA\03.04.15\DictionaryIntroApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\MITA\03.04.15\DictionaryIntroApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\MITA\03.04.15\DictionaryIntroApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\MITA\03.04.15\DictionaryIntroApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

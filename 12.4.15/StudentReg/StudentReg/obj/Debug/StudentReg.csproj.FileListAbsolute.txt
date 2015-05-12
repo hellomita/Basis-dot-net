@@ -1,0 +1,9 @@
+E:\MITA\12.4.15\StudentReg\StudentReg\bin\Debug\StudentReg.exe.config
+E:\MITA\12.4.15\StudentReg\StudentReg\bin\Debug\StudentReg.exe
+E:\MITA\12.4.15\StudentReg\StudentReg\bin\Debug\StudentReg.pdb
+E:\MITA\12.4.15\StudentReg\StudentReg\obj\Debug\StudentReg.csprojResolveAssemblyReference.cache
+E:\MITA\12.4.15\StudentReg\StudentReg\obj\Debug\StudentReg.Properties.Resources.resources
+E:\MITA\12.4.15\StudentReg\StudentReg\obj\Debug\StudentReg.csproj.GenerateResource.Cache
+E:\MITA\12.4.15\StudentReg\StudentReg\obj\Debug\StudentReg.exe
+E:\MITA\12.4.15\StudentReg\StudentReg\obj\Debug\StudentReg.pdb
+E:\MITA\12.4.15\StudentReg\StudentReg\obj\Debug\StudentReg.StudentInformation.resources

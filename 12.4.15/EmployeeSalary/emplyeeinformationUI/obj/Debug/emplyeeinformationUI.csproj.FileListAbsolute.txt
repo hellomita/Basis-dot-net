@@ -1,0 +1,12 @@
+E:\jewel rana\emplyeeinformationUI\emplyeeinformationUI\bin\Debug\emplyeeinformationUI.exe.config
+E:\jewel rana\emplyeeinformationUI\emplyeeinformationUI\obj\Debug\emplyeeinformationUI.csprojResolveAssemblyReference.cache
+E:\jewel rana\emplyeeinformationUI\emplyeeinformationUI\obj\Debug\emplyeeinformationUI.Properties.Resources.resources
+E:\jewel rana\emplyeeinformationUI\emplyeeinformationUI\obj\Debug\emplyeeinformationUI.csproj.GenerateResource.Cache
+E:\jewel rana\emplyeeinformationUI\emplyeeinformationUI\bin\Debug\emplyeeinformationUI.exe
+E:\jewel rana\emplyeeinformationUI\emplyeeinformationUI\bin\Debug\emplyeeinformationUI.pdb
+E:\jewel rana\emplyeeinformationUI\emplyeeinformationUI\obj\Debug\emplyeeinformationUI.employeeinformationUI.resources
+E:\jewel rana\emplyeeinformationUI\emplyeeinformationUI\obj\Debug\emplyeeinformationUI.exe
+E:\jewel rana\emplyeeinformationUI\emplyeeinformationUI\obj\Debug\emplyeeinformationUI.pdb
+E:\MITA\12.4.15\EmployeeSalary\emplyeeinformationUI\bin\Debug\emplyeeinformationUI.exe.config
+E:\MITA\12.4.15\EmployeeSalary\emplyeeinformationUI\obj\Debug\emplyeeinformationUI.exe
+E:\MITA\12.4.15\EmployeeSalary\emplyeeinformationUI\obj\Debug\emplyeeinformationUI.pdb

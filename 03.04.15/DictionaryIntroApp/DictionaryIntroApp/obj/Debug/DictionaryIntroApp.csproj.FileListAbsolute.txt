@@ -1,0 +1,6 @@
+E:\MITA\03.04.15\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.exe.config
+E:\MITA\03.04.15\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.exe
+E:\MITA\03.04.15\DictionaryIntroApp\DictionaryIntroApp\bin\Debug\DictionaryIntroApp.pdb
+E:\MITA\03.04.15\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.csprojResolveAssemblyReference.cache
+E:\MITA\03.04.15\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.exe
+E:\MITA\03.04.15\DictionaryIntroApp\DictionaryIntroApp\obj\Debug\DictionaryIntroApp.pdb

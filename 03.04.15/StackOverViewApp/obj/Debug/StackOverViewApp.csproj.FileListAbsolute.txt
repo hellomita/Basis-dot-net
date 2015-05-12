@@ -1,0 +1,6 @@
+E:\MITA\03.04.15\StackOverViewApp\bin\Debug\StackOverViewApp.exe.config
+E:\MITA\03.04.15\StackOverViewApp\bin\Debug\StackOverViewApp.exe
+E:\MITA\03.04.15\StackOverViewApp\bin\Debug\StackOverViewApp.pdb
+E:\MITA\03.04.15\StackOverViewApp\obj\Debug\StackOverViewApp.csprojResolveAssemblyReference.cache
+E:\MITA\03.04.15\StackOverViewApp\obj\Debug\StackOverViewApp.exe
+E:\MITA\03.04.15\StackOverViewApp\obj\Debug\StackOverViewApp.pdb

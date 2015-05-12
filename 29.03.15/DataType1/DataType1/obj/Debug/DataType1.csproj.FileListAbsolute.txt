@@ -1,0 +1,6 @@
+E:\MITA\29.03.15\DataType1\DataType1\bin\Debug\DataType1.exe.config
+E:\MITA\29.03.15\DataType1\DataType1\bin\Debug\DataType1.exe
+E:\MITA\29.03.15\DataType1\DataType1\bin\Debug\DataType1.pdb
+E:\MITA\29.03.15\DataType1\DataType1\obj\Debug\DataType1.csprojResolveAssemblyReference.cache
+E:\MITA\29.03.15\DataType1\DataType1\obj\Debug\DataType1.exe
+E:\MITA\29.03.15\DataType1\DataType1\obj\Debug\DataType1.pdb

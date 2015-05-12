@@ -1,0 +1,9 @@
+E:\MITA\05.04.15\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.exe.config
+E:\MITA\05.04.15\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.exe
+E:\MITA\05.04.15\PersonalInfoApp\PersonalInfoApp\bin\Debug\PersonalInfoApp.pdb
+E:\MITA\05.04.15\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.csprojResolveAssemblyReference.cache
+E:\MITA\05.04.15\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.Form1.resources
+E:\MITA\05.04.15\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.Properties.Resources.resources
+E:\MITA\05.04.15\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.csproj.GenerateResource.Cache
+E:\MITA\05.04.15\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.exe
+E:\MITA\05.04.15\PersonalInfoApp\PersonalInfoApp\obj\Debug\PersonalInfoApp.pdb

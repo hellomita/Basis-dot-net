@@ -1,0 +1,5 @@
+E:\MITA\RentCalc\RentCalc\bin\Debug\RentCalc.exe.config
+E:\MITA\RentCalc\RentCalc\obj\Debug\RentCalc.csprojResolveAssemblyReference.cache
+E:\MITA\RentCalc\RentCalc\obj\Debug\RentCalc.Form1.resources
+E:\MITA\RentCalc\RentCalc\obj\Debug\RentCalc.Properties.Resources.resources
+E:\MITA\RentCalc\RentCalc\obj\Debug\RentCalc.csproj.GenerateResource.Cache

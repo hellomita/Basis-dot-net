@@ -1,0 +1,5 @@
+E:\MITA\05.04.15\compoundInterestCalculator\compoundInterestCalculator\bin\Debug\compoundInterestCalculator.exe.config
+E:\MITA\05.04.15\compoundInterestCalculator\compoundInterestCalculator\obj\Debug\compoundInterestCalculator.csprojResolveAssemblyReference.cache
+E:\MITA\05.04.15\compoundInterestCalculator\compoundInterestCalculator\obj\Debug\compoundInterestCalculator.InterestCalculator.resources
+E:\MITA\05.04.15\compoundInterestCalculator\compoundInterestCalculator\obj\Debug\compoundInterestCalculator.Properties.Resources.resources
+E:\MITA\05.04.15\compoundInterestCalculator\compoundInterestCalculator\obj\Debug\compoundInterestCalculator.csproj.GenerateResource.Cache

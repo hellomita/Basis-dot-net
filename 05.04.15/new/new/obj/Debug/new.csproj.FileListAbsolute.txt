@@ -1,0 +1,4 @@
+E:\MITA\05.04.15\new\new\bin\Debug\@new.exe.config
+E:\MITA\05.04.15\new\new\obj\Debug\new.Form1.resources
+E:\MITA\05.04.15\new\new\obj\Debug\new.Properties.Resources.resources
+E:\MITA\05.04.15\new\new\obj\Debug\new.csproj.GenerateResource.Cache

@@ -1,0 +1,5 @@
+E:\MITA\03.04.15\DictionaryIntroViewApp\bin\Debug\DictionaryIntroViewApp.exe.config
+E:\MITA\03.04.15\DictionaryIntroViewApp\bin\Debug\DictionaryIntroViewApp.exe
+E:\MITA\03.04.15\DictionaryIntroViewApp\bin\Debug\DictionaryIntroViewApp.pdb
+E:\MITA\03.04.15\DictionaryIntroViewApp\obj\Debug\DictionaryIntroViewApp.exe
+E:\MITA\03.04.15\DictionaryIntroViewApp\obj\Debug\DictionaryIntroViewApp.pdb

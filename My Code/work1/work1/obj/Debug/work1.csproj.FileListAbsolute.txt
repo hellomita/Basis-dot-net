@@ -1,0 +1,6 @@
+E:\MITA\My Code\work1\work1\bin\Debug\work1.exe.config
+E:\MITA\My Code\work1\work1\bin\Debug\work1.exe
+E:\MITA\My Code\work1\work1\bin\Debug\work1.pdb
+E:\MITA\My Code\work1\work1\obj\Debug\work1.csprojResolveAssemblyReference.cache
+E:\MITA\My Code\work1\work1\obj\Debug\work1.exe
+E:\MITA\My Code\work1\work1\obj\Debug\work1.pdb

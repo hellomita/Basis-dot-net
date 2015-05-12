@@ -1,0 +1,9 @@
+E:\MITA\05.04.15\studentUI\studentUI\bin\Debug\studentUI.exe.config
+E:\MITA\05.04.15\studentUI\studentUI\bin\Debug\studentUI.exe
+E:\MITA\05.04.15\studentUI\studentUI\bin\Debug\studentUI.pdb
+E:\MITA\05.04.15\studentUI\studentUI\obj\Debug\studentUI.csprojResolveAssemblyReference.cache
+E:\MITA\05.04.15\studentUI\studentUI\obj\Debug\studentUI.Form1.resources
+E:\MITA\05.04.15\studentUI\studentUI\obj\Debug\studentUI.Properties.Resources.resources
+E:\MITA\05.04.15\studentUI\studentUI\obj\Debug\studentUI.csproj.GenerateResource.Cache
+E:\MITA\05.04.15\studentUI\studentUI\obj\Debug\studentUI.exe
+E:\MITA\05.04.15\studentUI\studentUI\obj\Debug\studentUI.pdb
